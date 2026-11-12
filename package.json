@@ -1,0 +1,23 @@
+{
+  "name": "the-workfolio",
+  "version": "1.0.0",
+  "description": "The Workfolio - Modern, interactive, and visually captivating portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "node init && live-server --port=3000",
+    "start": "node init && live-server --port=3000",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [
+    "portfolio",
+    "the-workfolio",
+    "creative-developer",
+    "frontend",
+    "animations"
+  ],
+  "author": "The Workfolio",
+  "license": "MIT"
+}
